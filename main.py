@@ -12,9 +12,9 @@ YELLOW = "#faee5a"
 BLUE = "#7b9acc"
 FONT = ("Courier", 35, "bold")
 FONT_BTN = ("Courier", 12, "bold")
-SHORT_BREAK_MIN = 1
-LONG_BREAK_MIN = 1
-WORK_MIN = 1
+SHORT_BREAK_MIN = 5
+LONG_BREAK_MIN = 30
+WORK_MIN = 60
 
 # Variables
 timer_running = False
